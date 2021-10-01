@@ -19,7 +19,7 @@ export default {
     // demo: path.resolve(__dirname, '../src/index.js')
   },
   output: {
-    library: 'react-typing-effect',
+    library: 'react-typing-effect-multiline',
     libraryTarget: 'umd',
     path: path.resolve(__dirname, '../dist'),
     publicPath: '/',

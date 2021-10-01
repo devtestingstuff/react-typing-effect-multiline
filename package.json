@@ -1,5 +1,5 @@
 {
-  "name": "react-typing-effect",
+  "name": "react-typing-effect-multiline",
   "version": "2.0.5",
   "description": "Simulates typing effect, eraser effect and blinking cursor.",
   "main": "dist/index.js",

@@ -1,4 +1,4 @@
-# React Typing Effect
+# React Typing Effect Multiline
 
 This is a UI component built completely in React that simulates typing effect, eraser effect and a blinking cursor.
 
@@ -8,7 +8,7 @@ This is a UI component built completely in React that simulates typing effect, e
 
 ## Getting Started
 
-  `$ npm install --save react-typing-effect`
+  `$ npm install --save react-typing-effect-multiline`
 
 `ReactTypingEffect` is the main component.
 
@@ -16,7 +16,7 @@ This is a UI component built completely in React that simulates typing effect, e
 
 ```javascript
 import React from 'react';
-import ReactTypingEffect from 'react-typing-effect';
+import ReactTypingEffect from 'react-typing-effect-multiline';
 
 const ReactTypingEffectDemo = () => {
   return (
